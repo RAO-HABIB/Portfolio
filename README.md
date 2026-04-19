@@ -2,7 +2,7 @@
 
 Live site: [https://habibrao-portfolio.netlify.app/](https://habibrao-portfolio.netlify.app/)
 
-![Portfolio Preview](public/images/preview1.png)
+![Portfolio Preview](public/images/preview1.webp)
 
 ## Table of Contents
 
