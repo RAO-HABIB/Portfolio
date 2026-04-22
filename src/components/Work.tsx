@@ -5,6 +5,13 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "AI  Website",
+    category: "Explore Ai Tools Platform",
+    tools: "Nextjs, Typescript, Tailwind CSS, Golang",
+    image: "/images/AIPreview.png",
+    link: "https://github.com/RAO-HABIB",
+  },
+  {
     title: "Foodie Website",
     category: "Food Ordering & Restaurant Platform",
     tools: "React.js, JavaScript, Tailwind CSS, REST API",
